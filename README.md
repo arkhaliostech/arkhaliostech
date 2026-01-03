@@ -1,4 +1,4 @@
-<h1 align="left">printf("My Name is Brent Daniel Lim🧃");</h1>
+<h1 align="left">printf("My Name is Daniel Lim🧃");</h1>
 
 
 
